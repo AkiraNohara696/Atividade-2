@@ -1,0 +1,16 @@
+section{
+
+  float: left;
+  width: 59.99%;
+  height: 500px;
+  background-color: gray;
+
+}
+
+.img{
+
+  position: absolute;
+  top: 70%;
+  left: 65%;
+
+}
